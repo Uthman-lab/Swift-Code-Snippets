@@ -8,7 +8,7 @@ This repository serves as a quick reference for Swift code examples, designed to
 
 ## Project Overview
 
-Whether you're a beginner or an experienced developer, this project provides:
+This project provides:
 - **Code Snippets**: Self-contained examples of Swift functions and codes.
 - **Explanations**: Each topic contains a readme file to help explain the codes or concepts.
 - **Organized by Topics**: Each snippet is grouped into folders by category (e.g., Concurrency, Patterns) for easy navigation.
