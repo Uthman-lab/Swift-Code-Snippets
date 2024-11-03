@@ -35,11 +35,13 @@ In Swift, there are two basic categories of patterns:
 
 ## Patterns Covered
 
-- **[WildCard Pattern](WildcardPattern.README.md)**: Demonstrates how to ignore values in a match.
-- **[Identifier Pattern](README.md)**: Matches and binds a value to a variable.
-- **[Value Binding Pattern](ValueBindingPattern.swift)**: Unwraps an optional value using binding.
-- **[Tuple Pattern](TuplePattern.swift)**: Matches values in a tuple.
-- **[Enum Case Pattern](EnumCasePattern.swift)**: Matches enum cases to execute specific code.
-- **[Optional Pattern](OptionalPattern.swift)**: Checks for nil or a value in an optional.
-- **[Type Casting Pattern](TypeCastingPattern.swift)**: Uses type casting to handle objects of different types.
-- **[Expression Pattern](ExpressionPattern.swift)**: Matches values based on conditions.
+- **[WildCard Pattern](./WildCard%20Pattern/README.md)**: Demonstrates how to ignore values in a match.
+- **[Identifier Pattern](./Identifier%20Pattern/README.md)**: Matches and binds a value to a variable.
+- **[Value Binding Pattern](./Value%20Binding%20Pattern/README.md)**: Unwraps an optional value using binding.
+- **[Tuple Pattern](./Tuple%20Pattern/README.md)**: Matches values in a tuple.
+- **[Enum Case Pattern](./Enum%20Case%20Pattern/README.md)**: Matches enum cases to execute specific code.
+- **[Optional Pattern](./Optional%20Pattern/README.md)**: Checks for nil or a value in an optional.
+- **[Type Casting Pattern](./Type%20Casting%20Pattern/README.md)**: Uses type casting to handle objects of different types.
+- **[Expression Pattern](./Expression%20Pattern/README.md)**: Matches values based on conditions.
+
+For more information about patterns in Swift, refer to the [Swift Programming Language Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/patterns/#Wildcard-Pattern).
