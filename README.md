@@ -17,7 +17,7 @@ This project provides:
 
 Here’s a list of the main categories covered in this repository:
 
-### Pattern Matching and Destructuring
+### [Pattern Matching and Destructuring](./Patterns/README.md)
 - This section includes various examples that showcase how to use pattern matching with `switch`, `if let`, and `guard` statements, as well as destructuring tuples and enums.
 
 ## How to Use This Repository
