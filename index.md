@@ -32,4 +32,4 @@ Contributions are welcome! If you have examples you’d like to add or suggestio
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [GNU Free Documentation License](LICENSE). see the [LICENSE](LICENSE) file for details.
