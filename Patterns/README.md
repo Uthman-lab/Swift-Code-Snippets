@@ -39,7 +39,7 @@ In Swift, there are two basic categories of patterns:
 
 ## Patterns Covered
 
-- **[WildCard Pattern](./WildCard%20Pattern/README.md)**: Demonstrates how to ignore values in a match.
+- **[WildCard Pattern](./WildCardPattern/README.md)**: Demonstrates how to ignore values in a match.
 - **[Identifier Pattern](./Identifier%20Pattern/README.md)**: Matches and binds a value to a variable.
 - **[Value Binding Pattern](./Value%20Binding%20Pattern/README.md)**: Unwraps an optional value using binding.
 - **[Tuple Pattern](./Tuple%20Pattern/README.md)**: Matches values in a tuple.
