@@ -1,4 +1,4 @@
-## Type Casting Patterns in Swift
+## Type Casting Patterns
 
 Type casting patterns are a powerful feature in Swift that allows you to match values based on their runtime type. This is particularly useful when dealing with dynamic types and polymorphism. There are two main type casting patterns: `is` and `as`.
 

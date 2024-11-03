@@ -1,4 +1,4 @@
-## Expression Pattern Matching in Swift
+## Expression Pattern Matching
 
 Expression pattern matching is a powerful feature in Swift that allows you to compare a value against the result of an expression, enabling you to perform more complex checks within `switch` statements. 
 

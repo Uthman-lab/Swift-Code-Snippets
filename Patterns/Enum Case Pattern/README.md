@@ -1,4 +1,4 @@
-## Enumeration Pattern Matching in Swift
+## Enumeration Pattern Matching
 
 Enumeration (enum) pattern matching is a powerful feature in Swift that allows you to elegantly handle and extract values from enums within `switch` statements. This makes your code more readable, safe, and expressive when dealing with enums.
 
