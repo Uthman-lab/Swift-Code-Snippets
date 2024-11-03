@@ -66,3 +66,6 @@ The identifier pattern:
  - Matches any value and binds it to a specified name.
  - Is commonly used in assignments, where it’s implicitly part of a value-binding pattern.
  - Can be used in switch cases, function parameters, and closures, enabling flexible matching and binding in various contexts.
+
+ * back to [Pattern](../README.md)
+ * Go to [Identifier Pattern](../ValueBindingPattern/README.md)

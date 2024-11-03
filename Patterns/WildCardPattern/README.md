@@ -64,3 +64,6 @@ The wildcard pattern (`_`) is a special pattern in Swift that acts as a placehol
 ### Conclusion
 
 The wildcard pattern is a valuable tool in Swift for pattern matching. It provides a simple yet powerful way to ignore specific values or cases, making your code more readable and concise while still achieving the desired matching behavior.
+
+* back to [Pattern](../README.md)
+* Go to [Identifier Pattern](../IdentifierPattern/README.md)

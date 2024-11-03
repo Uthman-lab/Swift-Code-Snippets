@@ -71,3 +71,6 @@ The value binding pattern:
 - Enables matching values and binding them to names for easier access and manipulation.
 - Is versatile and can be used in variable and constant declarations, switch statements, function parameters, and optional unwrapping.
 - Facilitates working with complex data structures by allowing the extraction of individual components seamlessly.
+
+* back to [Pattern](../README.md)
+* Go to [Identifier Pattern](../TuplePattern/README.md)
