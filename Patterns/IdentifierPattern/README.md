@@ -60,7 +60,7 @@ While the identifier pattern is commonly used in assignment statements, it is im
   * It involves using the = operator to assign a value to a name.
   * It specifically pertains to variable and constant declarations.
 
- ### Summary
+### Summary
 The identifier pattern:
 
  - Matches any value and binds it to a specified name.
