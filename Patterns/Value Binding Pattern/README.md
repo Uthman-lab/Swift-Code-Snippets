@@ -1,3 +1,8 @@
+---
+layout: default
+title: Value binding
+---
+
 # Value Binding Pattern
 
 The **Value Binding Pattern** is a fundamental concept in Swift that allows you to match values and bind them to names for later use. This pattern provides a way to destructure complex data types, making it easier to work with their contents.
