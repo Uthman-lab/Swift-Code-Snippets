@@ -1,3 +1,8 @@
+---
+layout: default
+title: wild cards
+---
+
 ## Wildcard Pattern
 
 The wildcard pattern (`_`) is a special pattern in Swift that acts as a placeholder, indicating that you're not interested in the value being matched. It's useful in scenarios where you want to match a value but don't need to use its specific value.

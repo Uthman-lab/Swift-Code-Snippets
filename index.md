@@ -1,3 +1,8 @@
+---
+layout: default
+title: Swift code snippets
+---
+
 # Swift-Code-Snippets
 
 ![Swift](https://img.shields.io/badge/Language-Swift-orange)
