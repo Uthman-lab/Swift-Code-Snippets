@@ -55,4 +55,4 @@ This `switch` statement uses the `as` pattern to check the type of `value` and c
 Type casting patterns are a valuable tool for working with dynamic types in Swift. The `is` pattern provides a way to check the type of a value without casting, while the `as` pattern combines type checking with casting, allowing you to safely extract values from polymorphic data. Use these patterns wisely to write clear, concise, and type-safe Swift code. 
 
 * back to [Pattern](../README.md)
-* Go to [Identifier Pattern](../ExpressionPattern/README.md)
+* Go to [Expression Pattern](../ExpressionPattern/README.md)

@@ -76,4 +76,4 @@ This `switch` statement matches the `result` tuple based on the `success` and `m
 Tuple pattern matching is a valuable tool for working with tuples in Swift. It helps you write concise, readable, and expressive code. Use it to deconstruct tuples, extract specific values, and match multiple values simultaneously. 
 
 * back to [Pattern](../README.md)
-* Go to [Identifier Pattern](../OptionalPattern/OptionalPattern.swift)
+* Go to [Optional Pattern](../OptionalPattern/OptionalPattern.swift)

@@ -68,4 +68,4 @@ The identifier pattern:
  - Can be used in switch cases, function parameters, and closures, enabling flexible matching and binding in various contexts.
 
  * back to [Pattern](../README.md)
- * Go to [Identifier Pattern](../ValueBindingPattern/README.md)
+ * Go to [Value Binding Pattern](../ValueBindingPattern/README.md)

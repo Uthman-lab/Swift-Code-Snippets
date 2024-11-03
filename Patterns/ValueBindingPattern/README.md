@@ -73,4 +73,4 @@ The value binding pattern:
 - Facilitates working with complex data structures by allowing the extraction of individual components seamlessly.
 
 * back to [Pattern](../README.md)
-* Go to [Identifier Pattern](../TuplePattern/README.md)
+* Go to [Tupple Pattern](../TuplePattern/README.md)

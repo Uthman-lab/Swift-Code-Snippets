@@ -67,4 +67,4 @@ In this example, the `.rainy` case of the `WeatherCondition` enum has two associ
 Enumeration pattern matching is a powerful tool for working with enums in Swift. It provides a safe, expressive, and readable way to handle different enum cases and access associated values. By leveraging enum patterns, you can write cleaner and more maintainable code that handles enum values effectively. 
 
 * back to [Pattern](../README.md)
-* Go to [Identifier Pattern](../TypeCastingPattern/README.md)
+* Go to [Type Casting Pattern](../TypeCastingPattern/README.md)
