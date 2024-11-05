@@ -36,14 +36,15 @@ Here, add can only be called with types that conform to the Numeric protocol, su
 Generics make it easier to write flexible code that can work with multiple types and still be type-safe. This enables developers to build robust abstractions that adapt to different needs without compromising type safety.
 
 Example: The Swift standard library’s Array type is generic, allowing you to create Array<Int>, Array<String>, or even Array<CustomType>, all with the same functionality.
-
-swift
-Copy code
+```swift
 let intArray: Array<Int> = [1, 2, 3]
 let stringArray: Array<String> = ["Hello", "World"]
+```
 Both intArray and stringArray are arrays, but they enforce type consistency without needing separate implementations for each type.
 
+
 ## Topics covered:
+- ### [Naming Parameters](NamingGenericParameters.md)
 - ### [Generic Functions](./GenericFunctions/README.md)
   - [Type Constraints on Generic functions](./GenericFunctions/README.md#type-constraints-on-generic-functions)
   - [Where cluase on Generic Functions](./GenericFunctions/README.md#where-clauses-on-generic-functions)
@@ -51,3 +52,4 @@ Both intArray and stringArray are arrays, but they enforce type consistency with
   - [Type Constraints on Generic Types](./GenericTypes/README.md#type-constraints-on-generic-types)
   - [where cluase on Generic Types](./GenericTypes/README.md#where-clause-on-generic-types)
 - ### [Associated type](./AssociatedTypes/README.md)
+
