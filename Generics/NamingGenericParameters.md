@@ -35,5 +35,5 @@ By following these naming conventions, you can significantly improve the clarity
 
 Let me know if you have any other questions about generics in Swift! 
 
-Back [Generics](README.md)
-Go to [Generic Types](./GenericFunctions/README.md)
+* Back [Generics](README.md)
+* Go to [Generic Types](./GenericFunctions/README.md)
