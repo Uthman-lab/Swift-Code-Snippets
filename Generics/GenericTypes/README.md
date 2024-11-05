@@ -89,5 +89,5 @@ struct Box<T> where T: Equatable, T: Hashable {
 Generic types, combined with type constraints and the `where` clause, offer a powerful way to create versatile and type-safe data structures in Swift. This flexibility allows you to build reusable components that can work with various data types, making your code more efficient and adaptable. 
 
 
-Back [Generics](../README.md)
-Go to [Associate types]()
+* Back [Generics](../README.md)
+* Go to [Associate types](../AssociatedTypes/README.md)

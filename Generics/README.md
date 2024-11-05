@@ -44,10 +44,10 @@ let stringArray: Array<String> = ["Hello", "World"]
 Both intArray and stringArray are arrays, but they enforce type consistency without needing separate implementations for each type.
 
 ## Topics covered:
-- ### [Generic Functions]()
-  - [Type Constraints on Generic functions](#associated-type)
-  - [Where cluase on Generic Functions]()
-- ### [Generic Types]()
-  - [Type Constraints on Generic Types]()
-  - [where cluase on Generic Types]()
-- ### [Associated type]()
+- ### [Generic Functions](./GenericFunctions/README.md)
+  - [Type Constraints on Generic functions](./GenericFunctions/README.md#type-constraints-on-generic-functions)
+  - [Where cluase on Generic Functions](./GenericFunctions/README.md#where-clauses-on-generic-functions)
+- ### [Generic Types](./GenericTypes/README.md)
+  - [Type Constraints on Generic Types](./GenericTypes/README.md#type-constraints-on-generic-types)
+  - [where cluase on Generic Types](./GenericTypes/README.md#where-clause-on-generic-types)
+- ### [Associated type](./AssociatedTypes/README.md)
