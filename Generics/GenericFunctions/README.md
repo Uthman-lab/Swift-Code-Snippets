@@ -91,3 +91,6 @@ func findFirstMatchingItem<C: Collection, T>(_ collection: C, _ value: T) -> C.E
 4 `Where Clauses`: For more complex constraints involving associated types or equality relationships between types, you use the where clause. It allows you to define rules like "the associated type Item of two containers must be the same" or "the associated type must conform to Comparable."
 
 5 `Type Inference`: Swift automatically infers the type of the type parameter based on the arguments you pass to the generic function
+
+Back [Generics](../README.md)
+Go to [Generic Types]()
