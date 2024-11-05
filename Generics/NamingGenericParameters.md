@@ -33,7 +33,6 @@ Choosing good names for your type parameters is crucial for making your generic 
 
 By following these naming conventions, you can significantly improve the clarity and readability of your generic code, making it easier for both yourself and others to understand. 
 
-Let me know if you have any other questions about generics in Swift! 
 
 * Back [Generics](README.md)
 * Go to [Generic Types](./GenericFunctions/README.md)
