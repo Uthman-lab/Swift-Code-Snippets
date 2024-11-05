@@ -1,9 +1,4 @@
----
-layout: default
-title: Swift code snippets
----
-
-# Swift-Code-Snippets
+# Swift Code Snippets
 
 ![Swift](https://img.shields.io/badge/Language-Swift-orange)
 ![Algorithms](https://img.shields.io/badge/Category-Algorithms-blue)
@@ -24,6 +19,8 @@ Here’s a list of the main categories covered in this repository:
 
 ### [Pattern Matching and Destructuring](./Patterns/README.md)
 - This section includes various examples that showcase how to use pattern matching with `switch`, `if let`, and `guard` statements, as well as destructuring tuples and enums.
+### [Generics](./Generics/README.md)
+- This section covers the fundamentals of generics in Swift, including generic functions, types, associated types, and type constraints. You'll find examples illustrating how to define and use generics to create flexible and reusable code.
 
 ## How to Use This Repository
 
@@ -37,4 +34,5 @@ Contributions are welcome! If you have examples you’d like to add or suggestio
 
 ## License
 
-This project is licensed under the [GNU Free Documentation License](LICENSE). see the [LICENSE](LICENSE) file for details.
+This documentation is licensed under the [GNU Free Documentation License](LICENSE).
+
