@@ -93,4 +93,4 @@ func findFirstMatchingItem<C: Collection, T>(_ collection: C, _ value: T) -> C.E
 5 `Type Inference`: Swift automatically infers the type of the type parameter based on the arguments you pass to the generic function
 
 * Back [Generics](../README.md)
-* Go to [Generic Types](../GenericFunctions/README.md)
+* Go to [Generic Types](../GenericTypes/README.md)
