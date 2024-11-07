@@ -76,3 +76,26 @@ struct Book: Equatable, Hashable {
 // Classes that inherit from NSObject can override methods like isEqual(_:)
 // and hash to customize how equality and hashing work. This is often used when
 // bridging with Objective-C or when adding custom behavior to NSObject subclasses.
+
+class Animal: NSObject {
+    var name: String
+    var species: String
+    
+    init(name: String, species: String) {
+        self.name = name
+        self.species = species
+    }
+    
+    override func isEqual(_ object: Any?) -> Bool {
+        guard let other = object as? Animal else { return false }
+        return self.name == other.name && self.species == other.species
+    }
+    
+    override var hash: Int {
+        return name.hashValue ^ species.hashValue &* 16777619
+    }
+}
+
+let dog1 = Animal(name: "Max", species: "Dog")
+let dog2 = Animal(name: "Max", species: "Dog")
+print(dog1 == dog2)  // Output: true
